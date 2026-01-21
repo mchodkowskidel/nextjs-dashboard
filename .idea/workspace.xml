@@ -4,14 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c54a08f4-ce8d-481c-bf46-a8782f724c17" name="Changes" comment="loading and streaming">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+    <list default="true" id="c54a08f4-ce8d-481c-bf46-a8782f724c17" name="Changes" comment="search and pagination">
+      <change afterPath="$PROJECT_DIR$/app/dashboard/invoices/[id]/edit/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/dashboard/invoices/create/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/lib/actions.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/dashboard/invoices/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/dashboard/invoices/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/ui/invoices/pagination.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/ui/invoices/pagination.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/ui/search.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/ui/search.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ui/invoices/buttons.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/ui/invoices/buttons.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ui/invoices/create-form.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/ui/invoices/create-form.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ui/invoices/edit-form.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/ui/invoices/edit-form.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1751279619346</updated>
       <workItem from="1751279620357" duration="44000" />
-      <workItem from="1768993608942" duration="4590000" />
+      <workItem from="1768993608942" duration="6028000" />
     </task>
     <task id="LOCAL-00001" summary="setup">
       <option name="closed" value="true" />
@@ -100,7 +100,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768997221937</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="search and pagination">
+      <option name="closed" value="true" />
+      <created>1768998391066</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1768998391066</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +118,7 @@
     <MESSAGE value="setup" />
     <MESSAGE value="pages" />
     <MESSAGE value="loading and streaming" />
-    <option name="LAST_COMMIT_MESSAGE" value="loading and streaming" />
+    <MESSAGE value="search and pagination" />
+    <option name="LAST_COMMIT_MESSAGE" value="search and pagination" />
   </component>
 </project>
