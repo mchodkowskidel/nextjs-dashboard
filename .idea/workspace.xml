@@ -4,12 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c54a08f4-ce8d-481c-bf46-a8782f724c17" name="Changes" comment="ssr actions">
-      <change afterPath="$PROJECT_DIR$/app/dashboard/invoices/[id]/edit/not-found.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/dashboard/invoices/error.tsx" afterDir="false" />
+    <list default="true" id="c54a08f4-ce8d-481c-bf46-a8782f724c17" name="Changes" comment="error handling">
+      <change afterPath="$PROJECT_DIR$/eslint.config.mjs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/dashboard/invoices/[id]/edit/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/dashboard/invoices/[id]/edit/page.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/lib/actions.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/lib/actions.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ui/invoices/create-form.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/ui/invoices/create-form.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ui/invoices/edit-form.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/ui/invoices/edit-form.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +75,8 @@
       <updated>1751279619346</updated>
       <workItem from="1751279620357" duration="44000" />
       <workItem from="1768993608942" duration="6224000" />
-      <workItem from="1769000134531" duration="420000" />
+      <workItem from="1769000134531" duration="1780000" />
+      <workItem from="1769006879010" duration="702000" />
     </task>
     <task id="LOCAL-00001" summary="setup">
       <option name="closed" value="true" />
@@ -115,7 +118,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768999831371</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="error handling">
+      <option name="closed" value="true" />
+      <created>1769000619118</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1769000619118</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,6 +138,7 @@
     <MESSAGE value="loading and streaming" />
     <MESSAGE value="search and pagination" />
     <MESSAGE value="ssr actions" />
-    <option name="LAST_COMMIT_MESSAGE" value="ssr actions" />
+    <MESSAGE value="error handling" />
+    <option name="LAST_COMMIT_MESSAGE" value="error handling" />
   </component>
 </project>
